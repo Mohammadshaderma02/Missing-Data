@@ -1,10 +1,10 @@
-# Filtering dataset
+# Find Missing Data from dataset
 
 * To Show Code And More details  <a href='https://colab.research.google.com/drive/1Gz18WRTz1HuVpDqV2yu6jChO0p8VfMG_?usp=sharing'>Go to Colab</a>
 
 
 
-## **About Filtering data**
+## **About Missing Data**
 ---
 
 * by using Python
